@@ -4,7 +4,10 @@ Um simples script para instalação de ferramentas de desenvolvimento que eu uso
 ## Como utilizar ##
 
 Certifique-se que o arquivo tem permissão para installar!
-##Observação: Se o seu systema estiver em Inglês mude o nome da pasta no script [Trânsferencia] -> [Download]
+
+
+## Observação: Se o seu systema estiver em Inglês mude o nome da pasta no script [Trânsferencia] -> [Download]
+
 No terminal rode:
 $ sh script.sh
 
