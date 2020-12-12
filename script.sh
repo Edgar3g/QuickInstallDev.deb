@@ -17,18 +17,19 @@ sudo apt install sass &&
 sudo apt install lxqt-sudo &&
 sudo apt install composer &&
 
-## Softwares que precisam de download externo ##
-
-cd ~/Downloads/ && wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb &&
-wget -c https://dl.discordapp.net/apps/linux/0.0.12/discord-0.0.12.deb && wget -c https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_89.0.723.0-1_amd64.deb && sudo dpkg -i *.deb 
-
 ##Instalando Aplicações de fonte Snap##
+sudo apt  install snapd &&
 
-sudo snap install code --classic &&
 sudo snap install insomnia &&
+sudo snap install code --classic &&
 sudo snap install beekeeper-studio &&
 sudo snap install mysql-workbench-community &&
 sudo snap install pycharm --classic &&
+
+## Softwares que precisam de download externo ##
+
+cd ~/Transferências/ && wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb &&
+wget -c https://dl.discordapp.net/apps/linux/0.0.12/discord-0.0.12.deb && wget -c https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_89.0.723.0-1_amd64.deb && sudo dpkg -i *.deb &&
 
 ## Atualização do sistema e removendo pacotes desnecessarios ##
 
