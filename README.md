@@ -16,6 +16,7 @@ Git;
 Python3 and Python-pip;
 Sass;
 Lqtx-sudo;
+Composer;
 
 Download:
 
@@ -29,5 +30,6 @@ Vs-code;
 Insomnia;
 Beekeeper-Studio;
 Pycharm;
+Mysql-Workbench;
 
 ## Autor: Edgar A. Dikenge ##
