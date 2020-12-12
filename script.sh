@@ -26,7 +26,6 @@ wget -c https://dl.discordapp.net/apps/linux/0.0.12/discord-0.0.12.deb && wget -
 
 sudo snap install code --classic &&
 sudo snap install insomnia &&
-sudo snap install ruby --classic &&
 sudo snap install beekeeper-studio &&
 sudo snap install mysql-workbench-community &&
 sudo snap install pycharm --classic &&
