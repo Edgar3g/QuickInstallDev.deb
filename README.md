@@ -13,26 +13,26 @@ $ sh script.sh
 
 ## Quias Ferramentas são instaladas ##
 
-Por Apt:
+-> Por Apt:
 
-Git;
-Python3 and Python-pip;
-Sass;
-Lqtx-sudo;
-Composer;
+ - Git
+ - Python3 and Python-pip
+ - Sass
+ - Lqtx-sudo
+ - Composer
 
-Download:
+-> Download:
 
-Google Chrome;
-Discord;
-Edge browser dev;
+ - Google Chrome
+ - Discord
+ - Edge browser dev
 
-Snap:
+-> Snap:
 
-Vs-code;
-Insomnia;
-Beekeeper-Studio;
-Pycharm;
-Mysql-Workbench;
+ - Vs-code
+ - Insomnia
+ - Beekeeper-Studio
+ - Pycharm
+ - Mysql-Workbench
 
 ## Autor: Edgar A. Dikenge ##
