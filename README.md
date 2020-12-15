@@ -24,7 +24,6 @@ $ sh script.sh
 -> Download:
 
  - Google Chrome
- - Discord
  - Edge browser dev
 
 -> Snap:
