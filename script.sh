@@ -24,6 +24,7 @@ sudo snap install insomnia &&
 sudo snap install code --classic &&
 sudo snap install beekeeper-studio &&
 sudo snap install mysql-workbench-community &&
+sudo snap install phpstorm --classic &&
 sudo snap install pycharm-community --classic &&
 
 ## Softwares que precisam de download externo ##
