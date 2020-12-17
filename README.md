@@ -32,6 +32,7 @@ $ sh script.sh
  - Insomnia
  - Beekeeper-Studio
  - Pycharm
+ - PHPstorm
  - Mysql-Workbench
 
 ## Autor: Edgar A. Dikenge ##
